@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "name": "autodc",
+  "version": "1.0.0",
+  "description": "Disconecting User After Times with Discord Bot",
+  "main": "bot.js",
+  "license": "MIT",
+  "packageManager": "yarn@1.22.22"
+}
